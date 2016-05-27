@@ -7,3 +7,4 @@ I love Git!
 Haha i am coming baby!
 Createing a new branch is quick AND simple.
 Add a merge
+Add Mark
